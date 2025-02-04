@@ -17,6 +17,10 @@ const calistoga = Calistoga({
 export const metadata: Metadata = {
   title: "Portfolio - Sarbajit Chaki",
   description: "Created with Next.js, Tailwind CSS, and TypeScript",
+  icons: {
+    icon: "/favicon.png", 
+    shortcut: "/favicon.png",
+  }
 };
 
 export default function RootLayout({
