@@ -7,7 +7,7 @@ const ConnectBtn = () => {
   const [isWiggling, setIsWiggling] = useState(false);
   return (
     <motion.a
-      href="https://www.linkedin.com/in/sarbajit-chaki/"
+      href="https://www.linkedin.com/in/sarbajit-chaki-dev/"
       target="__blank"
       className="inline-flex items-center gap-x-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl"
       whileHover={{ scale: 1.08 }}
