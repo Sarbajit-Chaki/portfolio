@@ -3,7 +3,7 @@ import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 const footerLinks = [
   {
     title: 'Linkedin',
-    href: 'https://www.linkedin.com/in/sarbajit-chaki/',
+    href: 'https://www.linkedin.com/in/sarbajit-chaki-dev/',
   },
   {
     title: 'Facebook',
